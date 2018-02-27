@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/Lab1/PlayLab/lab1/app/views/index.scala.html:44:80: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m              <td><img src="/assets/images/productImages/thumbnails/@(p.getId  " + .jpg ")"/></td>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/Lab1/PlayLab/lab1/app/views/index.scala.html:46:2: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m              <td><img src="/assets/images/productImages/thumbnails/noImage.png/"></td>[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
